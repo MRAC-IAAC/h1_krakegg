@@ -16,17 +16,15 @@ In the documents, you will find:
 
 **B. 3D printing files:**
 
-01_Krakegg Stage 01- Moulds_Baked (...): Rhino file of the specific moulds used for the production of the prototype
+Structure : Print files for the air chamber, exoskeleton, and connection to the robot
 
-01_Krakegg Stage 01: Moulds_Parametric (...) : Grasshopper file of the parametrized moulds, in order to quickly change the parameters and generate new 3D printing-ready files
-
-02_Krakegg Stage 01- Connection to robot arm (...): Rhino file of the current iteration of the connection plate, air chamber and finger holder to the plate
+Moulds : Print file for the silicone moulds for the fingers and knuckle spacer
 
 **C. Circuit:**
 
-03_circuit: zipped folder containing hardware circuit information, including wiring instructions
+03_circuit: Circuit diagrams for the communication and control circuit
 
-03_arduino: .ino file containing the current iteration of Arduino code
+03_arduino: Arduino code for the air control circuit
 
 **Prototype demonstration videos:**
 
