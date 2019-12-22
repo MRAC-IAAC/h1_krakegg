@@ -6,7 +6,7 @@ The repository contains the files, code & hardware components used in the projec
 
 In the documents, you will find:
 
-A. Text instructions:
+**A. Text instructions:**
 
 0.Concept & process: explaining the overall process leading to the development of the final prototype for the soft robotics gripper.
 
@@ -14,7 +14,7 @@ A. Text instructions:
 
 0_02: Build process: documenting the steps taken in order to build the final prototype
 
-B. 3D printing files:
+**B. 3D printing files:**
 
 01_Krakegg Stage 01- Moulds_Baked (...): Rhino file of the specific moulds used for the production of the prototype
 
@@ -22,13 +22,13 @@ B. 3D printing files:
 
 02_Krakegg Stage 01- Connection to robot arm (...): Rhino file of the current iteration of the connection plate, air chamber and finger holder to the plate
 
-C. Circuit:
+**C. Circuit:**
 
 03_circuit: zipped folder containing hardware circuit information, including wiring instructions
 
 03_arduino: .ino file containing the current iteration of Arduino code
 
-Prototype demonstration videos:
+**Prototype demonstration videos:**
 
     Egg picking demonstration: https://www.youtube.com/watch?v=kh5d-S89E1A&feature=youtu.be
 
