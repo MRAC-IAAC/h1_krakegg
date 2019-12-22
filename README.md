@@ -24,9 +24,9 @@ B. 3D printing files:
 
 C. Circuit:
 
-03_Krakegg Stage 01- Circuit: zipped folder containing hardware circuit information, including wiring instructions
+03_circuit: zipped folder containing hardware circuit information, including wiring instructions
 
-03_Krakegg Stage 01- Arduino code: .ino file containing the current iteration of Arduino code
+03_arduino: .ino file containing the current iteration of Arduino code
 
 Prototype demonstration videos:
 
